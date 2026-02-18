@@ -13,7 +13,7 @@
 
 ## Results
 
-**[View the interactive report →](https://ai-benchmark-feb-17.vercel.app)**
+**[View the interactive report →](https://ai-benchmark-2026.vercel.app)**
 
 The report includes:
 - Response time and token output charts per task
