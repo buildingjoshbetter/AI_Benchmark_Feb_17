@@ -1,0 +1,9 @@
+{
+  "Model_A": "Qwen 3.5 397B (Open) (qwen/qwen3.5-397b-a17b)",
+  "Model_B": "Qwen 3.5 Plus (Hosted) (qwen/qwen3.5-plus-02-15)",
+  "Model_C": "Claude Sonnet 4.5 (anthropic/claude-sonnet-4.5)",
+  "Model_D": "Claude Opus 4.5 (anthropic/claude-opus-4.5)",
+  "Model_E": "Claude Opus 4.6 (anthropic/claude-opus-4.6)",
+  "Model_F": "Claude Sonnet 4.6 (anthropic/claude-sonnet-4.6)",
+  "Model_G": "Gemini 2.5 Pro (google/gemini-2.5-pro)"
+}

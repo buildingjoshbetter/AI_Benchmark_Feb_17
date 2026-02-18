@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+results/_checkpoint.json
+results/all_results_backup_8k.json
