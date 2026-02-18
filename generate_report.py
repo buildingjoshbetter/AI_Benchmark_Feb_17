@@ -233,9 +233,13 @@ def generate_html(stats):
     <meta property="og:description" content="The $0.72/M Chinese open-source model went toe to toe with $75/M Claude and Gemini on real work. Every response published. Judge for yourself.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://ai-benchmark-2026.vercel.app">
+    <meta property="og:image" content="https://ai-benchmark-2026.vercel.app/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="AI Model Benchmark - 7 Models, 30 Tasks, Every Output Published">
     <meta name="twitter:description" content="The $0.72/M Chinese open-source model went toe to toe with $75/M Claude and Gemini on real work. Every response published. Judge for yourself.">
+    <meta name="twitter:image" content="https://ai-benchmark-2026.vercel.app/og-image.png">
     <meta name="twitter:creator" content="@Building_Josh">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
