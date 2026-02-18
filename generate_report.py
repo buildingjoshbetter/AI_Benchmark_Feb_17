@@ -227,7 +227,16 @@ def generate_html(stats):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Model Benchmark — February 2026</title>
+    <title>AI Model Benchmark - February 2026</title>
+    <meta name="description" content="7 AI models. 30 real-world tasks. Every raw output published. The $0.72/M Chinese open-source model vs $75/M American flagships.">
+    <meta property="og:title" content="AI Model Benchmark - 7 Models, 30 Tasks, Every Output Published">
+    <meta property="og:description" content="The $0.72/M Chinese open-source model went toe to toe with $75/M Claude and Gemini on real work. Every response published. Judge for yourself.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://ai-benchmark-2026.vercel.app">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI Model Benchmark - 7 Models, 30 Tasks, Every Output Published">
+    <meta name="twitter:description" content="The $0.72/M Chinese open-source model went toe to toe with $75/M Claude and Gemini on real work. Every response published. Judge for yourself.">
+    <meta name="twitter:creator" content="@Building_Josh">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
