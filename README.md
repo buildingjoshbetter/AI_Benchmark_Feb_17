@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>7 models. 30 tasks. One report.</strong><br>
-  Qwen 3.5 vs Claude vs Gemini — head-to-head across code, design, and research.
+  Qwen 3.5 vs Claude vs Gemini - head-to-head across code, design, and research.
 </p>
 
 <p align="center">
@@ -51,11 +51,11 @@ Seven models tested via [OpenRouter](https://openrouter.ai), all at `temperature
 
 ### 30 Prompts Across 3 Categories
 
-**Code (10 tasks)** — REST APIs, React components, state machines, CLI tools, WebSocket servers, parsers, and more. Every task requires production-quality, runnable code.
+**Code (10 tasks)** - REST APIs, React components, state machines, CLI tools, WebSocket servers, parsers, and more. Every task requires production-quality, runnable code.
 
-**Design (7 tasks)** — Full single-file HTML/CSS/JS pages: SaaS landing pages, analytics dashboards, navigation menus, settings panels, onboarding flows, chat interfaces, and data tables. Rendered in-browser to compare visual quality.
+**Design (7 tasks)** - Full single-file HTML/CSS/JS pages: SaaS landing pages, analytics dashboards, navigation menus, settings panels, onboarding flows, chat interfaces, and data tables. Rendered in-browser to compare visual quality.
 
-**Research (10 tasks)** — Deep analysis tasks: personality frameworks, technology comparisons, second-order effects, historical analysis, and more. Tests reasoning depth and structure.
+**Research (10 tasks)** - Deep analysis tasks: personality frameworks, technology comparisons, second-order effects, historical analysis, and more. Tests reasoning depth and structure.
 
 ### Controls
 
@@ -116,11 +116,11 @@ python generate_report.py --serve
 
 ## Why
 
-I wanted to see if Qwen 3.5 — the new open-weights model that dropped February 16, 2026 — could actually compete with Claude and Gemini on real tasks. Not on MMLU. Not on HumanEval. On the stuff I actually use these models for every day: writing code, designing interfaces, and researching complex topics.
+I wanted to see if Qwen 3.5, the new open-weights model that dropped February 16, 2026, could actually compete with Claude and Gemini on real tasks. Not on MMLU. Not on HumanEval. On the stuff I actually use these models for every day: writing code, designing interfaces, and researching complex topics.
 
 The benchmarks on model cards are meaningless to me. I don't care if a model scores 92.3% on GPQA. I care if it can build me a landing page that doesn't look like it was designed in 2014, write an API that handles edge cases, and explain a concept without hallucinating.
 
-So I wrote 30 prompts — the kind of things I'd actually send to a model — and ran all 7 models against them head-to-head. Same prompts. Same temperature. Same token limits. The report shows every response so you can judge for yourself.
+So I wrote 30 prompts, the kind of things I'd actually send to a model, and ran all 7 models against them head-to-head. Same prompts. Same temperature. Same token limits. The report shows every response so you can judge for yourself.
 
 No sponsored content. No cherry-picked examples. Just raw outputs.
 
